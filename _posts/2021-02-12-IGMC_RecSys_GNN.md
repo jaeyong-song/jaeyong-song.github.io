@@ -1,9 +1,9 @@
 ---
-title: Graph Neural Networks(GNN) Basic (GCN, GraphSAGE, GAT)
+title: Recommender System GNN Modeling (IGMC 논문 리뷰)
 author: Jaeyong Song
 date: 2021-02-11 20:00:00 +0900
-categories: [Deep Learning, GNN]
-tags: [Deep Learning, Graph, GNN, GCN, GraphSAGE, GAT]
+categories: [Deep Learning, RecSys]
+tags: [Deep Learning, Graph, GNN, GCN, RecSys, Machine Learning]
 math: true
 mermaid: true
 image:
