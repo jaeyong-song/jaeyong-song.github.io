@@ -1,13 +1,13 @@
 ---
-title: GNN Pytorch Code (GCN, GINConv)
+title: ResNet Custom Implementation with Pytorch
 author: Jaeyong Song
-date: 2021-02-12 03:00:00 +0900
-categories: [Deep Learning, GNN]
-tags: [Deep Learning, Graph, GNN, GCN, GINConv, Pytorch]
+date: 2021-02-18 03:30:00 +0900
+categories: [Deep Learning, CNN]
+tags: [Deep Learning, Image, CNN, ResNet, Pytorch]
 math: true
 mermaid: true
 image:
-  src: https://tutorials.pytorch.kr/_static/img/thumbnails/cropped/Introduction-to-TorchScript.png
+  src: https://neurohive.io/wp-content/uploads/2019/01/resnet-e1548261477164.png
 ---
 
 데이터사이언스랩 2021년 2월 23일 (화) 심화세션 "GNN 실습 및 pytorch 모델링"을 위해서 작성한 게시물입니다. GNN 관련 여러 게시물과 강의를 참고하여 만들었습니다.[^CS224w][^IdeaFactoryKAIST]
