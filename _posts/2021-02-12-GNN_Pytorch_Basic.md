@@ -1,5 +1,5 @@
 ---
-title: GNN Pytorch Code Basic (GCN, GINConv, GAE)
+title: GNN PyTorch Code Basic (GCN, GINConv, GAE)
 author: Jaeyong Song
 date: 2021-02-12 03:00:00 +0900
 categories: [Deep Learning, GNN]

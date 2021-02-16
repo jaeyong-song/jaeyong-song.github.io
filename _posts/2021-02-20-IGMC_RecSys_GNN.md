@@ -1,38 +1,18 @@
 ---
-title: Recommender System GNN Modeling (IGMC 논문 리뷰)
+title: RecSys GNN Modeling (Inductive Matrix Completion Based on Graph Neural Networks, IGMC) (논문리뷰 및 코드분석, ICLR 2020)
 author: Jaeyong Song
-date: 2021-02-20 20:00:00 +0900
+date: 2021-02-16 20:00:00 +0900
 categories: [Deep Learning, RecSys]
-tags: [Deep Learning, Graph, GNN, GCN, RecSys, Machine Learning]
+tags: [Deep Learning, Graph, GNN, GCN, RecSys, Machine Learning, ICLR]
 math: true
 mermaid: true
 image:
-  src: https://theaisummer.com/assets/img/posts/Graph_Neural_Networks/gnn.jpg
+  src: https://raw.githubusercontent.com/muhanzhang/IGMC/master/overall2.svg
 ---
 
-데이터사이언스랩 2021년 2월 18일 (목) 심화세션 "GNN 이론"을 위해서 작성한 게시물입니다. GNN 관련 여러 게시물[^IdeaFactoryKAIST]과 강의[^CS224w] 를 참고하여 만들었습니다.
+데이터사이언스랩 심화스터디 추천시스템2에서 GNN Modeling 관련하여 IGMC 논문을 리뷰한 내용입니다...[^IGMC] [^IGMC_IMPL]
 
-이번 게시물에서는 GNN의 기초적인 형태들과 약간의 확장인 GCN, GAT을 위주로 살펴보도록 하겠습니다.
-
-## 목차
-
-1. GNN을 위한 NN 확장
-2. GCN(Graph Convolutional Networks), GraphSAGE
-3. GAT(Graph Attention Networks)
-
-
-
-## 1. GNN을 위한 NN 확장
-
-
-
-## 2. GCN(Graph Convolutional Networks), GraphSAGE
-
-
-
-## 3. GAT(Graph Attention Networks)
-
-
+정리중
 
 
 
@@ -40,5 +20,7 @@ image:
 
 ## References
 
-[^CS224w]: http://web.stanford.edu/class/cs224w/
-[^IdeaFactoryKAIST]:https://youtu.be/YL1jGgcY78U
+
+
+[^IGMC]: https://arxiv.org/abs/1904.12058
+[^IGMC_IMPL]: https://github.com/muhanzhang/IGMC
